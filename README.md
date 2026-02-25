@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  🎧 Spotify Security Monitoring Dashboard (PoC)
 
 This project is a **proof-of-concept (PoC)** security monitoring dashboard designed to analyze **abnormal user behavior patterns** in a music streaming platform environment using **synthetic data**.
@@ -132,3 +133,6 @@ cybersecurity,
 anomaly detection,
 
 and applied machine learning.
+=======
+# spotify_security_project
+>>>>>>> eb1f660d307f850088e66bebcf16cbb3eb5fca87
