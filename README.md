@@ -1,6 +1,8 @@
 <<<<<<< HEAD
  🎧 Spotify Security Monitoring Dashboard (PoC)
 
+ ![Dashboard Preview](https://raw.githubusercontent.com/Selen-Totuk/Account-Takeover-Early-Warning/main/model_analysis.png)
+
 This project is a **proof-of-concept (PoC)** security monitoring dashboard designed to analyze **abnormal user behavior patterns** in a music streaming platform environment using **synthetic data**.
 
 The goal is **not** to exploit or access real Spotify systems, but to demonstrate:
